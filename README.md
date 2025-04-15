@@ -4,9 +4,9 @@ A soon-to-be cleaned up decompilation of Freedom Planet's Torque Steam beta (1.2
 ### Progress: 0%
 - [x] Basic Clickteam decompilation output
 - [ ] Decompilation issues fixed
- - [ ] Issues with "Insta Shields" and breakable objects (ie Bombs)
- - [ ] Bombs triggering all at once (bugfix found by Mr. Farkle)
- - [ ] Visual Issues
+  - [ ] Issues with "Insta Shields" and breakable objects (ie Bombs)
+  - [ ] Bombs triggering all at once (bugfix found by Mr. Farkle)
+  - [ ] Visual Issues
 - [ ] Global Values renamed
 - [ ] Object alterable values renamed
 - [ ] Object strings renamed
