@@ -1,10 +1,15 @@
 # OpenAvalice
 A soon-to-be cleaned up decompilation of Freedom Planet's Torque Steam beta (1.23.3) for Clickteam Fusion 2.5. For now, this is simply an empty repo as I'm busy with other projects, however this will be worked on eventually.
 
+# Decompilation changes
+A handful of changes have been made from the original game for more convenient modding:
+- Character's sprite objects have all been made global for the sake of replacing sprites easier
+- The frame "Character Select (DEBUG)" from older versions has been reimported, as it was set to not compile in this version.
+
 ### Progress: 0%
 - [x] Basic Clickteam decompilation output
 - [ ] Decompilation issues fixed
-  - [ ] Issues with "Insta Shields" and breakable objects (ie Bombs)
+  - [ ] Issues with "Insta Shields" and breakable objects (ie bombs and crystals)
   - [ ] Bombs triggering all at once (bugfix found by Mr. Farkle)
   - [ ] Visual Issues
 - [ ] Global Values renamed
