@@ -10,6 +10,7 @@ A soon-to-be cleaned up decompilation of Freedom Planet's Torque Steam beta (1.2
 - [ ] Global Values renamed
 - [ ] Object alterable values renamed
 - [ ] Object strings renamed
+
 Decomp specific:
 - [ ] Code comments for easier usage?
 - [ ] Maybe a debug utility of sorts?
