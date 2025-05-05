@@ -9,9 +9,9 @@ A handful of changes have been made from the original game for more convenient m
 ### Progress: 0%
 - [x] Basic Clickteam decompilation output
 - [ ] Decompilation issues fixed
-  - [ ] Issues with "Insta Shields" and breakable objects (ie bombs and crystals)
-  - [ ] Bombs triggering all at once (bugfix found by Mr. Farkle)
-  - [ ] Visual Issues
+  - [ ] Issues with "Insta Shields" and breakable objects (ie bombs and crystals) (Fixed, DV frame 1 Only)
+  - [ ] Bombs triggering all at once (bugfix found by Mr. Farkle) (Fixed, Trap Hideout Only)
+  - [ ] Visual Issues (Fixed, DV frame 1 Only)
 - [ ] Global Values renamed
 - [ ] Object alterable values renamed
 - [ ] Object strings renamed
