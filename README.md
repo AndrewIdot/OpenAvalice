@@ -1,5 +1,5 @@
 # OpenAvalice
-A soon-to-be cleaned up decompilation of Freedom Planet's Torque Steam beta (1.23.3) for Clickteam Fusion 2.5. For now, this is simply an empty repo as I'm busy with other projects, however this will be worked on eventually.
+A soon-to-be cleaned up decompilation of Freedom Planet's Torque Steam beta (1.21.3) for Clickteam Fusion 2.5. For now, this is simply an empty repo as I'm busy with other projects, however this will be worked on eventually.
 
 ### Decompilation changes
 A handful of changes have been made from the original game for more convenient modding:
